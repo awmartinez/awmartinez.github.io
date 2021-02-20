@@ -7,7 +7,7 @@ permalink: /about/
 Some information about you!
 
 ### More Information
-![Dr. Martinez]({{site.baseurl}}/images/CP-LBD.jpg)
+![Dr. Martinez]({{site.baseurl}}/images/CP_LBD.jpg)
 
 ### Contact me
 
